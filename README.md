@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-# Node.js template
 
-This is a Node.js project.
-
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
-=======
 # MERN User System – Backend
 
 A simple user management backend built using Node.js, Express, and MongoDB Atlas.  
@@ -125,4 +114,4 @@ Returns all users (password excluded).
 
 Sanchit Gupta
 BTech CSE – Bennett University
->>>>>>> b847b26d096c26936225878a5e41d49480f7eebc
+
