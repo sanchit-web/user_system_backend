@@ -1,0 +1,13 @@
+[33m63ba408[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Refactored project to MVC architecture and solve merege conflict
+
+[33m1795549[m Update README.md
+[33m5d186c9[m Delete unecessary files
+[33mdfb190e[m Resolved merge conflict and kept env configuration
+[33mcefbb71[m Refactored backend using dotenv and environment variables
+[33mb847b26[m Update README.md
+[33m59dbf92[m Delete .devcontainer directory
+[33m75e0540[m Delete .codesandbox directory
+[33m270c5fe[m Update .gitignore
+[33m59bab6c[m Update README.md
+[33mdf6d384[m Initial commit
+
